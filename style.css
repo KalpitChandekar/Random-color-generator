@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background-color: black;
+  transition: 0.5s;
 }
 
 .main {
